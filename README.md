@@ -1,6 +1,6 @@
 # 💫About Me :
-🔭 I’m currently working on some webDev projects
-🌱 I’m currently learning basics of AI
+- 🔭 I’m currently working on some webDev projects
+- 🌱 I’m currently learning basics of AI
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ay.dnf) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25251215) 
